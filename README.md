@@ -1,3 +1,4 @@
+![logo](https://github.com/utkarsh866/utkarsh866/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Utkarsh singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
@@ -13,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qIDwmgPcBePFdOzSYC_-Yrp0_fl3eG6t/view?usp=sharing](https://drive.google.com/file/d/1qIDwmgPcBePFdOzSYC_-Yrp0_fl3eG6t/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny in talking with other**
+- ⚡ Fun fact **I think I am funny **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
