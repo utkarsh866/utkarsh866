@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **utkarshsingh866@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qIDwmgPcBePFdOzSYC_-Yrp0_fl3eG6t/view?usp=sharing](https://drive.google.com/file/d/1qIDwmgPcBePFdOzSYC_-Yrp0_fl3eG6t/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/162rQwPbN6xRJvQVyie_KvZaTrlWpGOZF/view?usp=drive_link)
 
 - 📋 Visit My PortFolio  [https://utkarshportfolio866.netlify.app/]
 
