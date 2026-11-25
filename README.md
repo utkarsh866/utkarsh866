@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Utkarsh singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer Building AI-Powered Applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh866&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh866" /> </p>
 
 - 🔭 I’m currently working on **Vechile Rental System**
 
-- 🌱 I’m currently learning **Nextjs,Nodejs,Mongodb,etc**
+- 🌱 I’m currently learning **Nextjs,Nestjs Nodejs,Mongodb,etc**
 
 - 💬 Ask me about **Javascript,ReactJs,Cpp,python**
 
